@@ -13,7 +13,7 @@ I've only tested this on osx and have no intention to broaden that.
 - A github personal token, you can [create one here](https://github.com/settings/tokens). You only need the `public_repo` scope if you just fork the `qmk/qmk_firmware` repository.
 - [Nim installed.](https://nim-lang.org/install.html)
 - probably whatever openssl-dev you have
-- depends on `unzip` being in installed too
+- depends on `unzip` being installed and in your path too
 
 ## Setup
 
